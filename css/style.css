@@ -1,3 +1,104 @@
+body {
+	background-color: #F6F8F9;
+
+}
+
+header {
+	margin: 20px;
+	width: 1440px ;
+	height:	50px;
+	
+}
+
+
+.logo {
+	color: 	red;
+	font-size: 13;
+	vertical-align: middle;
+	margin-right: 140px;
+	font-family: 'helvetica', sans-serif;
+	font-weight: 700;
+}
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.active{
+	opacity: 100%;
+}
+li {
+	font-size: 11px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 31px;
+}
+li a {
+	color: black;
+	font-weight:700 ;
+	font-family: 'helvetica', sans-serif;
+	opacity: 50%;
+}
+.headerlogo	{
+	display: inline-block;
+	vertical-align: middle;
+	width:31px;
+}
+
+.s-1 {
+	margin-left: 190px;
+
+}
+
 h2 {
-	color: red;
+	font-size: 24px;
+	font-weight: 700;
+	font-family: 'helvetica', sans-serif;
+	margin-bottom: 30px;
+
+}
+
+.container {
+	width: 1160px;
+	height: 410px;
+	display: inline-block;
+
+}
+
+.card {
+	position:absolute;
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+
+		
+}
+
+p {	
+	position: absolute;
+	top: 245px;
+	right: 39px;
+	bottom: 67px;
+	left: 40px;
+	width: 281px;
+	height: 38px;
+	font-family: "acumin pro";
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 50px;
+	font-style: normal;
+	text-align: left;
+	color: #a6adb4;
+	margin-left: 40px;
+	
+}
+
+.icon {
+	position: absolute;
+	width: 71px;
+	height: 17px;
+	top: 294px;
+	right: 304px;
+	left: 40px;
+	bottom: 40px;
+
 }
